@@ -1,4 +1,4 @@
-module github.com/imfing/hextra-starter-template
+module github.com/minchus/minchus.github.io
 
 go 1.21
 

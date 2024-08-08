@@ -1,17 +1,14 @@
 ---
-title: My Site
+title: Baked Goods
 toc: false
 ---
 
-This is the landing page.
+## Starchaser
+For the climber obsessed with chasing stars or grades, this page will help you pick a destination.
 
-## Explore
+[Show me the stars!](https://starchaser.minchus.com)
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
+## Cats Against Humanity
+Cards Against Humanity. Online. And with cats.
 
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+[Show me the cats!](https://cats.minchus.com)
