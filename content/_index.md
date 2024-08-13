@@ -1,5 +1,5 @@
 ---
-title: Baked Goods
+title: ""
 toc: false
 ---
 
